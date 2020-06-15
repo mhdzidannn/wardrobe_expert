@@ -182,36 +182,30 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 3</div>
+  <img src="assetsKM/maleEvents/casual/Casual_Jeans.jpeg" style="width:48%">
+  <div class="text">Jeans</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 3</div>
+  <img src="assetsKM/maleEvents/casual/Casual_Shirt.jpeg" style="width:50%">
+  <div class="text">Any kind of casual shirt</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 3</div>
+  <img src="assetsKM/maleEvents/casual/Casual_Shoes.jpeg" style="width:48%">
+  <div class="text">Casual sneakers shoes</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
-</div>
 
 
 </div>
 <br>
 
 <div style="text-align:center">
-  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -224,9 +218,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  :  <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.JPG" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c6.JPG" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c7.JPG" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 
