@@ -100,9 +100,10 @@ include_once('config.php');
 					<div class="col-md-12 heading-section text-center ftco-animate">
 			
 					<div class="w-100"><h3 class="monospace" style="color:#F56A57"> <b>Choose Your Gender<b> </h3></div><br> <br>
-								  <form method="post" action="/preferences.php">
+
 													<div class="row1">
-						  <div class="column1">
+						  
+              <div class="column1">
 							<img src="blank.png" alt="Snow" style="width:120%"><br><br>
 							
 							
@@ -121,8 +122,9 @@ include_once('config.php');
 						  
 						  <div class="column1">
 							<img src="assetsKM/main/female3.png" alt="Forest" style="width:117%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>Female</b></font></p>
+							
+              <button onclick="location.href = '/wardrobe_expert/profile.php';" id="myButton" class="btn btn-success" >Male</button>
+              <p><font color=brown  size='3pt'><b>Female</b></font></p>
 						  </div>
 	</div>
 	 <div class="row mt-5 pt-3 d-flex">
@@ -130,8 +132,6 @@ include_once('config.php');
 	          		
 	          	</div>
 				<br><br>
-				
-	          	
 										
 										</div>
 									</div>
