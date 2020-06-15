@@ -179,26 +179,26 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
-  <img src="dinnerdress.png" style="width:30%">
+  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
   <div class="text">Dress</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 4</div>
-  <img src="heels.png" style="width:50%">
+  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
   <div class="text">Heels</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 4</div>
-  <img src="earing2.png" style="width:48%">
+  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
   <div class="text">Earings</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
-  <img src="earing2.png" style="width:48%">
+  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
   <div class="text">Earings</div>
 </div>
 

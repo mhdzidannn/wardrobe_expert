@@ -23,7 +23,7 @@ include_once('config.php');
 	<br>
 <style>
 .monospace {
-  font-family: "Lucida Console", Courier, monospace;
+  font-family: "Lucida Console", Courier, Rage Italic;
 }
 * {
   box-sizing: border-box;
@@ -64,9 +64,9 @@ include_once('config.php');
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="profile.php" class="nav-link" ><font color=brown  size='2pt'><b><i>Profile</b></i></font></a></li>
-	          <li class="nav-item"><a href="myorder.php" class="nav-link"><font color=brown  size='2pt'><b><i>My Order</b></i></font></a></li>
-			 <li class="nav-item"><a href="logout.php" class="nav-link"><font color=brown  size='2pt'><b><i>Logout</b></i></font></a></li>
+	          <li class="nav-item"><a href="profile.php" class="nav-link" ><font color=#F56A57  size='2pt'><b><i>My Profile</b></i></font></a></li>
+	          <li class="nav-item"><a href="feedback.php" class="nav-link"><font color=#F56A57 size='2pt'><b><i>Feedback</b></i></font></a></li>
+			 <li class="nav-item"><a href="logout.php" class="nav-link"><font color=#F56A57  size='2pt'><b><i>Logout</b></i></font></a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -95,50 +95,114 @@ include_once('config.php');
 	<br><br>
 <body >
 
-			<div class="container">
-				
-					<div class="col-md-12 heading-section text-center ftco-animate">
-			
-					<div class="w-100"><h3 class="monospace" style="color:DarkBlue"> Choose Your Preference </h3></div><br> <br>
-								  <form method="post" action="/main2.php">
-													<div class="row1">
-						  <div class="column1">
-							<img src="blank.png" alt="Snow" style="width:120%"><br><br>
-							
-							
-						  </div>
-						  
-						  
-						  
-						  <div class="column1">
-							<img src="hijabs.png" alt="Forest" style="width:117%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>With Scarfs</b></font></p>
-						  </div>
-	
-	
-	
-	
 
-	
-		
-						  
+	<div class="container">
+				<div class="row justify-content-center mb-3 pb-3">
+					<div class="col-md-12 heading-section text-center ftco-animate">
+					<div class="w-100"><h3 class="Rage Italic" style="color:#F56A57"> <b>Female - Choose Your Event (With Scarf)<b/> </h3></div><br> <br>
+								 
+													<div class="row1">
+
 						  <div class="column1">
-							<img src="freehair.png" alt="Forest" style="width:103%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>Without Scarfs</b></font></p>
+							<img src="basic.png" alt="Snow" style="width:30%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/dinner.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
+						  <div class="column1">
+							<img src="women_denim.png" alt="Forest" style="width:38%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
+						  </div>
+
+
+						  <div class="column1">
+							<img src="dating.jpg" alt="Mountains" style="width:40%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
+						  </div>
+
+
+						   <div class="column1">
+							<img src="corporate.png" alt="Mountains" style="width:40%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
+						  </div>
+
+
+                          <div class="column1">
+							<img src="assetsKM/preferences/hijabs.png" alt="Mountains" style="width:55%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
+						  </div>
+
+
+                          <div class="column1">
+							<img src="female.png" alt="Mountains" style="width:40%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
+						  </div>
+
+              
+						</div>
+													<main>
+										<div>
+												  <div>
+											
+										</div>
+									</main>
+										</div>
+									</main>
+											</div>
+										</div>   
+										<br><br>
 	</div>
+
+
+
 	 <div class="row mt-5 pt-3 d-flex">
 	          	<div class="col-md-6 d-flex">
 	          		
 	          	</div>
 				<br><br>
-				
 	          	
-											<button name="but" type="submit"  class="btn btn-success" id="newSubmit"><b>SUBMIT</b></button>
-											<div button="color:DarkBlue">
-											</div>
 										</div>
 									</div>
 								</div>

@@ -115,7 +115,7 @@ include_once('config.php');
 
 							<img src="assetsKM/main/male.png" alt="Forest" style="width:120%"><br><br>
               
-              <button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              <button onclick="location.href = '/wardrobe_expert/maleEvents.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
               color=yellow  

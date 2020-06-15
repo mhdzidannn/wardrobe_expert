@@ -99,49 +99,88 @@ include_once('config.php');
 	<div class="container">
 				<div class="row justify-content-center mb-3 pb-3">
 					<div class="col-md-12 heading-section text-center ftco-animate">
-					<div class="w-100"><h3 class="Rage Italic" style="color:#F56A57"> <b>Choose Your Event<b/> </h3></div><br> <br>
-								  <form method="post" action="/dinner.php">
+					<div class="w-100"><h3 class="Rage Italic" style="color:#F56A57"> <b>Female - Choose Your Event (Without Scarf)<b/> </h3></div><br> <br>
+								 
 													<div class="row1">
+
 						  <div class="column1">
 							<img src="basic.png" alt="Snow" style="width:30%"><br><br>
-							<input type="radio" name="service" value="Classes" required>
-							<p><font color=brown  size='3pt'><b>Classes</b></font></p>
+							<button onclick="location.href = '/wardrobe_expert/dinner.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
 						  <div class="column1">
 							<img src="women_denim.png" alt="Forest" style="width:38%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>Shopping</b></font></p>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
 						  <div class="column1">
 							<img src="dating.jpg" alt="Mountains" style="width:40%"><br><br>
-							<input type="radio" name="service" value="Dating" required>
-							<p><font color=brown  size='3pt'><b>Dating</b></font></p>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
 						   <div class="column1">
 							<img src="corporate.png" alt="Mountains" style="width:40%"><br><br>
-							<input type="radio" name="service" value="Coporate_Event" required>
-							<p><font color=brown  size='3pt'><b>Coporate Event</b></font></p>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
                           <div class="column1">
-							<img src="sports.png" alt="Mountains" style="width:55%"><br><br>
-							<input type="radio" name="service" value="seminar" required>
-							<p><font color=brown  size='3pt'><b>Sports</b></font></p>
+							<img src="assetsKM/preferences/hijabs.png" alt="Mountains" style="width:55%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
+
+
                           <div class="column1">
-							<img src="dinner.png" alt="Mountains" style="width:40%"><br><br>
-							<input type="radio" name="service" value="Gala_Event" required>
-							<p><font color=brown  size='3pt'><b>Dinner</b></font></p>
+							<img src="female.png" alt="Mountains" style="width:40%"><br><br>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=white  
+              size='3pt'>
+              <b>Casual (Class/Shopping)</b>
+              </font>
+              </button>
 						  </div>
-                          <div class="column1">
-							<img src="party.png" alt="Mountains" style="width:36%"><br><br>
-							<input type="radio" name="service" value="Parties" required>
-							<p><font color=brown  size='3pt'><b>Parties</b></font></p>
-						  </div>
-                          <div class="column1">
-							<img src="weddingdress.png" alt="Mountains" style="width:40%"><br><br>
-							<input type="radio" name="service" value="Wedding" required>
-							<p><font color=brown  size='3pt'><b>Wedding </b></font></p>
-						  </div>
+
+              
 						</div>
 													<main>
 										<div>
@@ -163,10 +202,7 @@ include_once('config.php');
 	          		
 	          	</div>
 				<br><br>
-	          	<div class="col-md-6">
-	          		
-											<button name="but" type="submit" class="btn btn-success" id="newSubmit"><b>SUBMIT</b></button>
-											</div>
+	          	
 										</div>
 									</div>
 								</div>
