@@ -111,20 +111,16 @@ include_once('config.php');
 						  
 						  
 						  <div class="column1">
-							<img src="male.png" alt="Forest" style="width:120%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
+							<img src="assetsKM/main/male.png" alt="Forest" style="width:120%"><br><br>
+
+              <button onclick="location.href = '/wardrobe_expert/preferences.php';" id="myButton" class="btn btn-success" >Male</button>
 							<p><font color=brown  size='3pt'><b>Male</b></font></p>
 						  </div>
-	
-	
-	
-	
-
 	
 		
 						  
 						  <div class="column1">
-							<img src="female3.png" alt="Forest" style="width:117%"><br><br>
+							<img src="assetsKM/main/female3.png" alt="Forest" style="width:117%"><br><br>
 							<input type="radio" name="service" value="Shopping" required>
 							<p><font color=brown  size='3pt'><b>Female</b></font></p>
 						  </div>
