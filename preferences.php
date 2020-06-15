@@ -127,9 +127,7 @@ include_once('config.php');
 				<br><br>
 
 
-											<button name="but" type="submit"  class="btn btn-success" id="newSubmit"><b>SUBMIT</b></button>
-											<div button="color:DarkBlue">
-											</div>
+										
 										</div>
 									</div>
 								</div>
