@@ -154,6 +154,10 @@ img {vertical-align: middle;}
   animation-duration: 1.5s;
 }
 
+.gallery {list-style: none}
+.gallery li {list-style: none; display: inline;}
+.gallery img { vertical-align: middle}
+
 @-webkit-keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
@@ -213,6 +217,28 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
 </div>
 
+
+<br><br>
+<h2>Colour pallete suggestion: </h2>
+<div class="row mt-5 pt-3 d-flex">
+	          	<div class="col-md-6 d-flex">
+
+	          	<br>
+              
+   
+
+              <ul class="gallery">
+    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="1"/><br/>Pallete 1</li>
+    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="2"/><br/>Pallete 2</li>
+    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="3"/><br/>Pallete 3</li>
+              </ul>
+				<br><br> 
+											</div>
+
+
+
+
+
 <script>
 var slideIndex = 0;
 showSlides();
@@ -266,7 +292,6 @@ function showSlides() {
 	          	</div>
 				<br><br>
 				
-	          	
 											
 										</div>
 									</div>
