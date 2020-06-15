@@ -104,7 +104,7 @@ include_once('config.php');
 													<div class="row1">
 
                           <div class="column1">
-							<img src="basic.png" alt="Snow" style="width:30%"><br><br>
+							<img src="basic.png" alt="Snow" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_sport_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -117,7 +117,7 @@ include_once('config.php');
 
 
 						  <div class="column1">
-							<img src="women_denim.png" alt="Forest" style="width:38%"><br><br>
+							<img src="women_denim.png" alt="Forest" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_corp_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -130,7 +130,7 @@ include_once('config.php');
 
 
 						  <div class="column1">
-							<img src="dating.jpg" alt="Mountains" style="width:40%"><br><br>
+							<img src="dating.jpg" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_cny_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -143,7 +143,7 @@ include_once('config.php');
 
 
 						   <div class="column1">
-							<img src="corporate.png" alt="Mountains" style="width:40%"><br><br>
+							<img src="corporate.png" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_casual_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -156,7 +156,7 @@ include_once('config.php');
 
 
                           <div class="column1">
-							<img src="assetsKM/preferences/hijabs.png" alt="Mountains" style="width:55%"><br><br>
+							<img src="assetsKM/preferences/hijabs.png" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_party_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -169,7 +169,7 @@ include_once('config.php');
 
 
                           <div class="column1">
-							<img src="female.png" alt="Mountains" style="width:40%"><br><br>
+							<img src="female.png" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_formal_female.php';" 
               id="myButton" 
               class="btn btn-success" ><font 

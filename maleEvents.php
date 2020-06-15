@@ -104,7 +104,7 @@ include_once('config.php');
 													<div class="row1">
 
 						  <div class="column1">
-							<img src="basic.png" alt="Snow" style="width:30%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Sports.jpeg" alt="Snow" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_sport_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -117,7 +117,7 @@ include_once('config.php');
 
 
 						  <div class="column1">
-							<img src="women_denim.png" alt="Forest" style="width:38%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Corporate.jpeg" alt="Forest" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_corp_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -130,20 +130,20 @@ include_once('config.php');
 
 
 						  <div class="column1">
-							<img src="dating.jpg" alt="Mountains" style="width:40%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Celebration.jpeg" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_cny_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Chineese New Year Celebration</b>
+              <b>CNY Celebration</b>
               </font>
               </button>
 						  </div>
 
 
 						   <div class="column1">
-							<img src="corporate.png" alt="Mountains" style="width:40%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Casual.jpeg" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_casual_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -156,7 +156,7 @@ include_once('config.php');
 
 
                           <div class="column1">
-							<img src="assetsKM/preferences/hijabs.png" alt="Mountains" style="width:55%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Dinner.jpeg" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_party_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -169,7 +169,7 @@ include_once('config.php');
 
 
                           <div class="column1">
-							<img src="female.png" alt="Mountains" style="width:40%"><br><br>
+							<img src="assetsKM/maleEvents/Event_Formal.jpeg" alt="Mountains" style="width:120px;height:120px"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/a_formal_male.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
