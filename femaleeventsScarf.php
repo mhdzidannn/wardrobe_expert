@@ -103,14 +103,14 @@ include_once('config.php');
 								 
 													<div class="row1">
 
-						  <div class="column1">
+                          <div class="column1">
 							<img src="basic.png" alt="Snow" style="width:30%"><br><br>
-							<button onclick="location.href = '/wardrobe_expert/dinner.php';" 
+							<button onclick="location.href = '/wardrobe_expert/a_dinner.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Casual (Class/Shopping)</b>
+              <b>Sports & Outdoors</b>
               </font>
               </button>
 						  </div>
@@ -123,7 +123,7 @@ include_once('config.php');
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Casual (Class/Shopping)</b>
+              <b>Corporate Events</b>
               </font>
               </button>
 						  </div>
@@ -136,7 +136,7 @@ include_once('config.php');
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Casual (Class/Shopping)</b>
+              <b>Chineese New Year Celebration</b>
               </font>
               </button>
 						  </div>
@@ -162,7 +162,7 @@ include_once('config.php');
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Casual (Class/Shopping)</b>
+              <b>Parties & Dinners</b>
               </font>
               </button>
 						  </div>
@@ -175,7 +175,7 @@ include_once('config.php');
               class="btn btn-success" ><font 
               color=white  
               size='3pt'>
-              <b>Casual (Class/Shopping)</b>
+              <b>Formal (Officewear)</b>
               </font>
               </button>
 						  </div>

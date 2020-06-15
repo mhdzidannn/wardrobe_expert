@@ -223,16 +223,13 @@ img {vertical-align: middle;}
 <div class="row mt-5 pt-3 d-flex">
 	          	<div class="col-md-6 d-flex">
 
-	          	<br>
-              
-   
-
               <ul class="gallery">
-    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="1"/><br/>Pallete 1</li>
-    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="2"/><br/>Pallete 2</li>
-    <li><img src="/wardrobe_expert/color/c1.png" style="width:500px;height:200px;" alt="3"/><br/>Pallete 3</li>
+    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  :  <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
-				<br><br> 
+				<br>
+        <br> 
 											</div>
 
 
