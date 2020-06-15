@@ -112,10 +112,20 @@ include_once('config.php');
 						  
 						  
 						  <div class="column1">
-							<img src="assetsKM/main/male.png" alt="Forest" style="width:120%"><br><br>
 
-              <button onclick="location.href = '/wardrobe_expert/preferences.php';" id="myButton" class="btn btn-success" >Male</button>
-							<p><font color=brown  size='3pt'><b>Male</b></font></p>
+							<img src="assetsKM/main/male.png" alt="Forest" style="width:120%"><br><br>
+              
+              <button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=yellow  
+              size='3pt'>
+              <b>Male</b>
+              </font>
+              </button>
+							
+              
+
 						  </div>
 	
 		
@@ -123,8 +133,16 @@ include_once('config.php');
 						  <div class="column1">
 							<img src="assetsKM/main/female3.png" alt="Forest" style="width:117%"><br><br>
 							
-              <button onclick="location.href = '/wardrobe_expert/profile.php';" id="myButton" class="btn btn-success" >Male</button>
-              <p><font color=brown  size='3pt'><b>Female</b></font></p>
+              <button onclick="location.href = '/wardrobe_expert/preferences.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=yellow  
+              size='3pt'>
+              <b>Female</b>
+              </font>
+              </button>
+
+
 						  </div>
 	</div>
 	 <div class="row mt-5 pt-3 d-flex">

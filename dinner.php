@@ -178,27 +178,36 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 4</div>
   <img src="dinnerdress.png" style="width:30%">
   <div class="text">Dress</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 4</div>
   <img src="heels.png" style="width:50%">
   <div class="text">Heels</div>
 </div>
 
+
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 4</div>
   <img src="earing2.png" style="width:48%">
   <div class="text">Earings</div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="earing2.png" style="width:48%">
+  <div class="text">Earings</div>
+</div>
+
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -222,7 +231,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 2 seconds
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
 
@@ -258,9 +267,7 @@ function showSlides() {
 				<br><br>
 				
 	          	
-											<button name="but" type="submit"  class="btn btn-success" id="newSubmit"><b>BACK</b></button>
-											<div button="color:DarkBlue">
-											</div>
+											
 										</div>
 									</div>
 								</div>
@@ -297,7 +304,7 @@ function AutoCalc(obj) {
 
 </script>
 </div>
-</form>
+
 </div>
 
 </main>

@@ -100,7 +100,6 @@ include_once('config.php');
 					<div class="col-md-12 heading-section text-center ftco-animate">
 
 					<div class="w-100"><h3 class="monospace" style="color:#F56A57"> <b>Choose Your Preference <b></h3></div><br> <br>
-								  <form method="post" action="/femaleevents.php">
 													<div class="row1">
 						  <div class="column1">
 							<img src="blank.png" alt="Snow" style="width:120%"><br><br>
@@ -109,15 +108,27 @@ include_once('config.php');
 
 						  <div class="column1">
 							<img src="hijabs.png" alt="Forest" style="width:117%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>With Scarfs</b></font></p>
-						  </div>
+							<button onclick="location.href = '/wardrobe_expert/profile.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=yellow  
+              size='3pt'>
+              <b>With Scarfs</b>
+              </font>
+              </button>
 
+						  </div>
 
 						  <div class="column1">
 							<img src="freehair.png" alt="Forest" style="width:103%"><br><br>
-							<input type="radio" name="service" value="Shopping" required>
-							<p><font color=brown  size='3pt'><b>Without Scarfs</b></font></p>
+							<button onclick="location.href = '/wardrobe_expert/femaleevents.php';" 
+              id="myButton" 
+              class="btn btn-success" ><font 
+              color=yellow  
+              size='3pt'>
+              <b>With Scarfs</b>
+              </font>
+              </button>
 						  </div>
 	</div>
 	 <div class="row mt-5 pt-3 d-flex">
