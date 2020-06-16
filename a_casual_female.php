@@ -182,35 +182,63 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_pant_blue.jpg" style="width:48%">
+  <div class="text">Pants</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_pant_white.jpg" style="width:50%">
+  <div class="text">Pants</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shirt_blue.jpg" style="width:48%">
+  <div class="text">Shirt</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shirt_orange.jpg" style="width:48%">
+  <div class="text">Shirt</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shirt_peach.jpg" style="width:48%">
+  <div class="text">Shirt</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shirt_purple.jpg" style="width:50%">
+  <div class="text">Shirt</div>
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shoes_blue.jpg" style="width:48%">
+  <div class="text">Shoes</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 8</div>
+  <img src="assetsKM/femaleEvents/casual/casual_shoes_blue.jpg" style="width:48%">
+  <div class="text">Shoes</div>
+</div>
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 

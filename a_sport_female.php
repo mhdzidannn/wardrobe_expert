@@ -182,35 +182,72 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a1.png" style="width:48%">
+  <div class="text">Sport Pants</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a2.png" style="width:50%">
+  <div class="text">Short Pants</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a3.png" style="width:48%">
+  <div class="text">Short Pants</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a4.png" style="width:48%">
+  <div class="text">Sport Shirt</div>
 </div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a5.png" style="width:48%">
+  <div class="text">Sport Shirt</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a6.png" style="width:50%">
+  <div class="text">Sport Shirt</div>
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a7.png" style="width:48%">
+  <div class="text">Sport hoes</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a8.png" style="width:48%">
+  <div class="text">Sport Shoes</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 9</div>
+  <img src="assetsKM/femaleEvents/sports/a9.png" style="width:48%">
+  <div class="text">Sport Shoes</div>
+</div>
+
 
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -224,9 +261,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c12.png" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c6.png" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c12.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c6.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 

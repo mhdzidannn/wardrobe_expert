@@ -182,30 +182,41 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
+  <div class="numbertext">1 / 6</div>
+  <img src="assetsKM/femaleEvents/party/d1.jpg" style="width:50%">
   <div class="text">Dress</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 6</div>
+  <img src="assetsKM/femaleEvents/party/d2.png" style="width:50%">
+  <div class="text">Dress</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 6</div>
+  <img src="assetsKM/femaleEvents/party/d3.png" style="width:48%">
+  <div class="text">Dress</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 6</div>
+  <img src="assetsKM/femaleEvents/party/s1.png" style="width:48%">
+  <div class="text">High Heels</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="assetsKM/femaleEvents/party/s2.jpeg" style="width:48%">
+  <div class="text">High Heels</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 6</div>
+  <img src="assetsKM/femaleEvents/party/s3.png" style="width:50%">
+  <div class="text">High Heels</div>
+</div>
 
 </div>
 <br>
@@ -215,7 +226,10 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
 </div>
+
 
 
 <br><br>
