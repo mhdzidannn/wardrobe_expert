@@ -182,30 +182,65 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/bazer_black.jpg" style="width:48%">
+  <div class="text">Blazer</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/black_shirt.jpg" style="width:48%">
+  <div class="text">Long SleeveShirt</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/black_Scarf.jpg" style="width:48%">
+  <div class="text">Scarf</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/brazer_blue.PNG" style="width:48%">
+  <div class="text">Blazer</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/pants.jpg" style="width:48%">
+  <div class="text">Long Pants</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/blazer.png" style="width:48%">
+  <div class="text">Blazer</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/corporate_woman_red_brazer.png" style="width:48%">
+  <div class="text">Blazer</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/long_skirt.PNG" style="width:48%">
+  <div class="text">Long Skirt</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/scarf_blue.jpg" style="width:48%">
+  <div class="text">Scarf</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/corporate/heels.png" style="width:48%">
+  <div class="text">Shoes with heels</div>
+</div>
 
 </div>
 <br>
@@ -214,7 +249,13 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span>
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>  
 </div>
 
 
@@ -224,9 +265,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c8.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c10.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c5.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="color/c8.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="color/c10.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="color/c5.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 

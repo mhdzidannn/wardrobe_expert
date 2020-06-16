@@ -182,30 +182,65 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/casual_pant_blue.jpg" style="width:48%">
+  <div class="text"> Long Pants</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/casual_shirt_blue.PNG" style="width:48%">
+  <div class="text">Long Sleeve Shirt</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/casual_shirt_dark_blue.jpg" style="width:48%">
+  <div class="text">Long Sleeve Shirt</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/casual_shirt_flower.jpg" style="width:48%">
+  <div class="text">Flower Design Shirt</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/grey_Scarf.jpg" style="width:48%">
+  <div class="text">Scarf</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/sandal.jpg" style="width:48%">
+  <div class="text">Sandals</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/scarf.jpg" style="width:48%">
+  <div class="text">Scarf</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">8 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/scarf2.jpg" style="width:48%">
+  <div class="text">Scarf</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">9 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/shoes_black.jpg" style="width:48%">
+  <div class="text">Shoes</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">10 / 10</div>
+  <img src="assetsKM/femaleEventsHijab/casual/shoes.jpg" style="width:48%">
+  <div class="text">Shoes</div>
+</div>
 
 </div>
 <br>
@@ -214,7 +249,13 @@ img {vertical-align: middle;}
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span>
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span>  
 </div>
 
 

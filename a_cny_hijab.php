@@ -183,28 +183,29 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <img src="assetsKM/femaleEventsHijab/cny/cny__red_dress.jpg" style="width:48%">
+  <div class="text">Red Dress</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <img src="assetsKM/femaleEventsHijab/cny/cny_blue_dress.jpg" style="width:50%">
+  <div class="text">Floral Dress</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <img src="assetsKM/femaleEventsHijab/cny/cny_pink_dress.jpg" style="width:48%">
+  <div class="text">Long Dress</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <img src="assetsKM/femaleEventsHijab/cny/cny_shoes.jpg" style="width:48%">
+  <div class="text">Heels</div>
 </div>
+
 
 
 </div>
@@ -224,9 +225,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c12.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c1.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c6.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="color/c12.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="color/c1.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="color/c6.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 

@@ -182,35 +182,56 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Dress</div>
+  <div class="numbertext">1 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/pants.PNG" style="width:48%">
+  <div class="text">Long Pants</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/heels.png" style="width:50%">
-  <div class="text">Heels</div>
+  <div class="numbertext">2 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/pants2.PNG" style="width:48%">
+  <div class="text">Long Pants</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/hijab.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">3 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/scarf.jpg" style="width:48%">
+  <div class="text">Scarf</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
-  <img src="assetsKM/femaleHijabDinner/reddress.png" style="width:48%">
-  <div class="text">Earings</div>
+  <div class="numbertext">4 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/shirt.jpg" style="width:48%">
+  <div class="text">Shirt</div>
 </div>
 
+<div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/sport_hoodie.PNG" style="width:48%">
+  <div class="text">Sport Hoodie</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/shoes1.png" style="width:48%">
+  <div class="text">Sports Shoes</div>
+</div>
+
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
+  <img src="assetsKM/femaleEventsHijab/sports/shoes2.jpg" style="width:48%">
+  <div class="text">Sports Shoes</div>
+</div>
 
 </div>
 <br>
 
 <div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
@@ -224,9 +245,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c1.png" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c12.png" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c6.png" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="color/c1.JPG" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="color/c12.JPG" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="color/c6.JPG" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 
