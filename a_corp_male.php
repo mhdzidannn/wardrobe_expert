@@ -224,9 +224,9 @@ img {vertical-align: middle;}
 	          	<div class="col-md-6 d-flex">
 
               <ul class="gallery">
-    <li>Pallete Suggestion 1  : <img src="/wardrobe_expert/color/c8.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 2  : <img src="/wardrobe_expert/color/c10.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
-    <li>Pallete Suggestion 3  : <img src="/wardrobe_expert/color/c5.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 1  : <img src="color/c8.jpg" style="width:720px;height:300px;" alt="1"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 2  : <img src="color/c10.jpg" style="width:720px;height:300px;" alt="2"/><br/><br/><br/></li>
+    <li>Pallete Suggestion 3  : <img src="color/c5.jpg" style="width:720px;height:300px;" alt="3"/><br/><br/><br/></li>
               </ul>
 				<br>
         <br> 
