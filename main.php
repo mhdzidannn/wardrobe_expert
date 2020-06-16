@@ -104,7 +104,7 @@ include_once('config.php');
 													<div class="row1">
 						  
               <div class="column1">
-							<img src="blank.png" alt="Snow" style="width:120%"><br><br>
+							<img src="assetsKM/preferences/blank.png" alt="Snow" style="width:120%"><br><br>
 							
 							
 						  </div>

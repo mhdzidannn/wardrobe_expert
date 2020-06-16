@@ -102,12 +102,12 @@ include_once('config.php');
 					<div class="w-100"><h3 class="monospace" style="color:#F56A57"> <b>Choose Your Preference <b></h3></div><br> <br>
 													<div class="row1">
 						  <div class="column1">
-							<img src="blank.png" alt="Snow" style="width:120%"><br><br>
+							<img src="assetsKM/preferences/blank.png" alt="Snow" style="width:120%"><br><br>
 
 						  </div>
 
 						  <div class="column1">
-							<img src="hijabs.png" alt="Forest" style="width:117%"><br><br>
+							<img src="assetsKM/preferences/hijabs.png" alt="Forest" style="width:117%"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/femaleeventsScarf.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
@@ -120,7 +120,7 @@ include_once('config.php');
 						  </div>
 
 						  <div class="column1">
-							<img src="freehair.png" alt="Forest" style="width:103%"><br><br>
+							<img src="assetsKM/preferences/freehair.png" alt="Forest" style="width:103%"><br><br>
 							<button onclick="location.href = '/wardrobe_expert/femaleeventsNoScarf.php';" 
               id="myButton" 
               class="btn btn-success" ><font 
